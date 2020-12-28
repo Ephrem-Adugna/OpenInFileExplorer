@@ -10,7 +10,7 @@ git clone https://github.com/Ephrem-Adugna/OpenInFileExplorer
 ```bash
 set PATH=%PATH%;C:\path\to\cloned\repo\OpenInFileExplorer\win64
 ```
-## Use: 
+## How to Use: 
 In any directory you are in just run: 
 ```bash
 open
